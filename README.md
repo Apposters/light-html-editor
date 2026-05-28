@@ -4,7 +4,7 @@ A lightweight, embeddable WYSIWYG editor for existing HTML pages. Drop it into a
 
 **8 KB gzipped · zero dependencies · TypeScript · plugin API**
 
-![Light HTML Editor](https://raw.githubusercontent.com/your-org/light-html-editor/main/docs/screenshot.png)
+![Light HTML Editor](https://raw.githubusercontent.com/Apposters/light-html-editor/main/screenshot.png)
 
 ---
 
